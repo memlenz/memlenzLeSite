@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on 🐱 memlenz.com</title>
-    <link>https://memlenz.com/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on 🐱 memlenz.com</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://memlenz.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tout savoir sur les sites internet 🌐 : Définition, types, histoire et tendances 2025</title>
-      <link>https://memlenz.com/blog/siteinternet/</link>
+      <link>http://localhost:1313/blog/siteinternet/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://memlenz.com/blog/siteinternet/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://memlenz.com/images/blog/SiteInternet/image1.png&#34; alt=&#34;Illustration d&amp;rsquo;un site internet&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tout-ce-que-tu-dois-savoir-sur-les-sites-internet--de-a-à-z-en-mode-chill&#34;&gt;Tout ce que tu dois savoir sur les sites internet : de A à Z, en mode chill&lt;/h1&gt;&#xA;&lt;p&gt;Salut ! Si tu es là, c&amp;rsquo;est probablement parce que tu te demandes ce que c&amp;rsquo;est vraiment qu&amp;rsquo;un site internet, ou peut-être que tu veux en créer un pour ton business ou ton hobby. En tout cas, on va plonger dans le sujet ensemble, comme si on papotait autour d&amp;rsquo;un café. Je vais te expliquer tout ce que j&amp;rsquo;ai pu dénicher sur le web : la définition basique, les différents types, leurs utilités, un peu d&amp;rsquo;histoire pour contextualiser, et même les tendances du moment. Prêt ? Allons-y !&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/siteinternet/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/blog/SiteInternet/image1.png&#34; alt=&#34;Illustration d&amp;rsquo;un site internet&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;tout-ce-que-tu-dois-savoir-sur-les-sites-internet--de-a-à-z-en-mode-chill&#34;&gt;Tout ce que tu dois savoir sur les sites internet : de A à Z, en mode chill&lt;/h1&gt;&#xA;&lt;p&gt;Salut ! Si tu es là, c&amp;rsquo;est probablement parce que tu te demandes ce que c&amp;rsquo;est vraiment qu&amp;rsquo;un site internet, ou peut-être que tu veux en créer un pour ton business ou ton hobby. En tout cas, on va plonger dans le sujet ensemble, comme si on papotait autour d&amp;rsquo;un café. Je vais te expliquer tout ce que j&amp;rsquo;ai pu dénicher sur le web : la définition basique, les différents types, leurs utilités, un peu d&amp;rsquo;histoire pour contextualiser, et même les tendances du moment. Prêt ? Allons-y !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

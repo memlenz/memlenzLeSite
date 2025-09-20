@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 🐱 memlenz.com</title>
-    <link>https://memlenz.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on 🐱 memlenz.com</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://memlenz.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital</title>
-      <link>https://memlenz.com/categories/digital/</link>
+      <link>http://localhost:1313/categories/digital/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://memlenz.com/categories/digital/</guid>
+      <guid>http://localhost:1313/categories/digital/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>https://memlenz.com/categories/internet/</link>
+      <link>http://localhost:1313/categories/internet/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://memlenz.com/categories/internet/</guid>
+      <guid>http://localhost:1313/categories/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>https://memlenz.com/categories/web/</link>
+      <link>http://localhost:1313/categories/web/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://memlenz.com/categories/web/</guid>
+      <guid>http://localhost:1313/categories/web/</guid>
       <description></description>
     </item>
   </channel>
