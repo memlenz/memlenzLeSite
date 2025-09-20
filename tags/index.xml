@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 🐱 memlenz.com</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://memlenz.com/tags/</link>
     <description>Recent content in Tags on 🐱 memlenz.com</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://memlenz.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
+      <link>https://memlenz.com/tags/blog/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
+      <guid>https://memlenz.com/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Création Site Web</title>
-      <link>http://localhost:1313/tags/cr%C3%A9ation-site-web/</link>
+      <link>https://memlenz.com/tags/cr%C3%A9ation-site-web/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cr%C3%A9ation-site-web/</guid>
+      <guid>https://memlenz.com/tags/cr%C3%A9ation-site-web/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Commerce</title>
-      <link>http://localhost:1313/tags/e-commerce/</link>
+      <link>https://memlenz.com/tags/e-commerce/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/e-commerce/</guid>
+      <guid>https://memlenz.com/tags/e-commerce/</guid>
       <description></description>
     </item>
     <item>
       <title>No-Code</title>
-      <link>http://localhost:1313/tags/no-code/</link>
+      <link>https://memlenz.com/tags/no-code/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/no-code/</guid>
+      <guid>https://memlenz.com/tags/no-code/</guid>
       <description></description>
     </item>
     <item>
       <title>SEO</title>
-      <link>http://localhost:1313/tags/seo/</link>
+      <link>https://memlenz.com/tags/seo/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/seo/</guid>
+      <guid>https://memlenz.com/tags/seo/</guid>
       <description></description>
     </item>
     <item>
       <title>Site Internet</title>
-      <link>http://localhost:1313/tags/site-internet/</link>
+      <link>https://memlenz.com/tags/site-internet/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/site-internet/</guid>
+      <guid>https://memlenz.com/tags/site-internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Tendances Web 2025</title>
-      <link>http://localhost:1313/tags/tendances-web-2025/</link>
+      <link>https://memlenz.com/tags/tendances-web-2025/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tendances-web-2025/</guid>
+      <guid>https://memlenz.com/tags/tendances-web-2025/</guid>
       <description></description>
     </item>
   </channel>
